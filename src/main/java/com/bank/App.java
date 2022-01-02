@@ -10,6 +10,6 @@ public class App
     {
         System.out.println( "Hello DevOps-done by dev1" );
         System.out.println( "Hello DevOps- done by dev2" );
->>>>>>> dev2
+
     }
 }
